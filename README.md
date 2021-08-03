@@ -1,1 +1,1 @@
-it is lit
+This project is a recreation of the google homepage. It will be asthetically similar with little functionality.
